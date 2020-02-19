@@ -3,7 +3,7 @@
 
 ## Installation 
 OpenCV and Python versions:
-This example will run on Python 2.7/Python 3.4+ and OpenCV 2.4.X/OpenCV 3.0+.
+This example will run on Python 2.7/Python 3.4+ and OpenCV 4.1.X/OpenCV 3.0+.
 
 ``` bash
 conda create -n env python=3.6
@@ -20,7 +20,7 @@ pip install matplotlib
 python compare.py
 ```
 
-## MacOsX
+## MacOSX
 ```
 pythonw compare.py
 ```
