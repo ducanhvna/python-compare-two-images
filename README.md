@@ -4,7 +4,7 @@
 ## Installation 
 
 ``` bash
-conda activate -n env python=3.6
+conda create -n env python=3.6
 pip install scikit-image
 pip install matplotlib
 
