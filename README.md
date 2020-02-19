@@ -19,3 +19,8 @@ python compare.py
 ```
 pythonw compare.py
 ```
+## Result
+![ Result](https://www.pyimagesearch.com/wp-content/uploads/2014/06/compare_original_contrast.jpg)
+## Ref
+https://www.pyimagesearch.com/2014/09/15/python-compare-two-images/
+
